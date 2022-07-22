@@ -1,0 +1,109 @@
+*{
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(2, 2, 2);
+   
+}
+body{
+    margin:0
+}
+.container{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.applePies{
+    color:white;
+    font-size: 100px;
+}
+
+.ingredientsImage{
+    height: 600px;
+    background-image: url("../images/apple-pie.jpg");
+    background-size: 100%;
+    font-family: sans-serif;
+    font-size: 80px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.intro{
+    font-size: 30px;
+    
+    
+    margin-top: 100px;
+    
+}
+
+.recipeInfo{
+    width:50%;
+    display: flex;
+    justify-content:  center;
+}
+
+.divImage1{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+
+
+.instructions{
+    font-size: 30px;
+}
+
+li{
+    list-style: none;
+    font-size: 30px;
+}
+
+ingredientsList{
+    display: flex;
+    justify-content: center;
+    
+}
+.p{
+    font-size: 35px;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
+
+ul{
+    
+    justify-items: center;
+    margin-left: 0;
+}
+.line{
+    border-bottom: 2px solid black;
+    height: 2px;
+    margin-top:100px ;
+    
+}
+
+.divImage2{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.cookingInfo{
+    width:50%;
+    display: flex;
+    justify-content:  center;
+}
+
+.lastP{
+    margin-top: 100px;
+    font-weight:bold;
+    font-size: 35px;
+    padding-left: 0px;
+}
+.ul{
+    margin-bottom: 300px;
+    font-size: 30px;
+    margin-left: -40px;
+}
+
